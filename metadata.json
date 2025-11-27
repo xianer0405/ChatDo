@@ -1,0 +1,5 @@
+{
+  "name": "ChatDo AI",
+  "description": "A conversational task manager powered by Gemini. Chat with your AI assistant to organize your life, add tasks, and track progress effortlessly.",
+  "requestFramePermissions": []
+}
